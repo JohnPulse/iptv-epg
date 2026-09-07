@@ -41,9 +41,7 @@ The matching process includes exact name matching, controlled aliases, country-a
 
 ## Updates
 
-EPG generation and publication are automated.
-
-A new version is published when the generated EPG changes.
+EPG generation and publication are updated daily.
 
 ## Privacy & Security
 
@@ -55,13 +53,7 @@ No IPTV username or password is required to download the EPG.
 
 ## Future Providers
 
-The repository is structured to support separate EPG files for additional providers in the future, for example:
-
-```text
-epg-strong8k.xml.gz
-epg-tres.xml.gz
-epg-dream4k.xml.gz
-```
+The repository is structured to support separate EPG files for additional providers in the future, no plans atm.
 
 ## XMLTV
 
