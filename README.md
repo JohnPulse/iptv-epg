@@ -90,3 +90,9 @@ The project was designed in a way that could support additional providers in the
 This is an automatically generated EPG resource.
 
 Channel availability, schedules, programme information, logos and other metadata depend on upstream sources and are not guaranteed to be complete or error-free.
+
+#### Support
+
+If you find this project useful, you can support its development:
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-0070BA?logo=paypal&logoColor=white)](https://paypal.me/johnpulse)
