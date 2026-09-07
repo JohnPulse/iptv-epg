@@ -53,7 +53,7 @@ No IPTV username or password is required to download the EPG.
 
 ## Future Providers
 
-The repository is structured to support separate EPG files for additional providers in the future. There are currently no plans to add additional providers.
+The system is technically capable of supporting additional providers, but there are currently no plans to add any.
 
 ## XMLTV
 
@@ -66,6 +66,24 @@ The generated guide uses the XMLTV format and may include:
 - Channel icons and other metadata when available
 
 Programme information depends on the upstream EPG sources and may change without notice.
+
+## FAQ
+
+### Why did you create this?
+
+Manually matching EPG data to IPTV channels takes time, especially when dealing with large channel lineups.
+I wanted to create a way to automate as much of that process as possible while keeping the matching conservative, and hopefully save other users some time too.
+
+### But there are already services that can do this!
+
+That's true, especially for countries such as the US, where several good EPG solutions are already available.
+However, I couldn't find a solution that worked as well for Portuguese channels and the specific channel lineup I use. That was one of the main reasons for creating this project.
+
+### Can you create an EPG for provider X?
+
+There are currently no plans to support additional providers.
+At the moment, the only supported provider is **Strong 8K**, and only selected channel categories are processed.
+The project was designed in a way that could support additional providers in the future, but there are no plans to do so at this time.
 
 ## Disclaimer
 
