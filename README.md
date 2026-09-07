@@ -17,9 +17,9 @@ https://JohnPulse.github.io/iptv-epg/epg-strong8k.xml.gz
 The guide currently covers matched channels from:
 
 - 🇵🇹 Portugal
-- 🇬🇧 United Kingdom
-- 🇺🇸 United States
-- Selected 4K / 8K channels
+- 🇬🇧 United Kingdom (Work in progress)
+- 🇺🇸 United States (Work in progress)
+- Selected 4K / 8K channels (Work in progress)
 
 ## Usage
 
