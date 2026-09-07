@@ -29,7 +29,7 @@ Add the following URL as an EPG/XMLTV source in your IPTV player or application:
 https://JohnPulse.github.io/iptv-epg/epg-strong8k.xml.gz
 ```
 
-Applications with support for gzip-compressed XMLTV sources should be able to use the URL directly.
+Applications that support gzip-compressed XMLTV sources should be able to use the URL directly.
 
 ## Matching
 
@@ -41,7 +41,7 @@ The matching process includes exact name matching, controlled aliases, country-a
 
 ## Updates
 
-EPG generation and publication are updated daily.
+The EPG is generated and published daily.
 
 ## Privacy & Security
 
@@ -53,7 +53,7 @@ No IPTV username or password is required to download the EPG.
 
 ## Future Providers
 
-The repository is structured to support separate EPG files for additional providers in the future, no plans atm.
+The repository is structured to support separate EPG files for additional providers in the future. There are currently no plans to add additional providers.
 
 ## XMLTV
 
